@@ -17,7 +17,7 @@ html {
 	&__content {
 		display: flex;
 		justify-content: center;
-		align-items: start;
+		align-items: flex-start;
 		iframe {
 			border: none;
 			width: 100vw;
